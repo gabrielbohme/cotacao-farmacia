@@ -522,4 +522,3 @@ elif pagina == "❓ Ajuda":
 Na cotação use o campo **Loja** (1 ou 2) para indicar para qual das suas farmácias é o item.  
 Isso aparece nos pedidos e no histórico.
     """)
-EOF
