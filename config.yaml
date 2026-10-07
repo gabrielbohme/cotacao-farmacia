@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@farmacia.com
+      name: Administrador
+      password: $2b$12$DNrdzc3MnSOTk9N4ZqYQO.yXpPgZyAz5JN2DuPnpI6nDdYAJSCu1K
+    comprador:
+      email: comprador@farmacia.com
+      name: Comprador
+      password: $2b$12$DNrdzc3MnSOTk9N4ZqYQO.yXpPgZyAz5JN2DuPnpI6nDdYAJSCu1K
+cookie:
+  expiry_days: 30
+  key: farmacia_cotacao_secret_key_2026_xyz
+  name: cotacao_farmacia_cookie
+preauthorized:
+  emails:
+  - admin@farmacia.com
